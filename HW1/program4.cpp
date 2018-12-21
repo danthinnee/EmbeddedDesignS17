@@ -1,4 +1,4 @@
-// Elisa Danthinne
+/ Elisa Danthinne
 // January 31, 2017
 // Homework 1, Problem 4
 
